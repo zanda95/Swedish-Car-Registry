@@ -1,6 +1,6 @@
 ## Diesel vs. Electric: Shifting Trends in New Car Registrations in Sweden! 🚗⚡️🌱 
 
-I'm thrilled to share with you a project that I've been passionately working on—analyzing newly registered cars in Sweden, from 2006 to May 2023.
+I'm thrilled to share with you a project that I've been passionately working on—analyzing newly registered cars in Sweden, from 2006 to May 2023. Throughout this project, I delved into the depths of SQL, Excel, and primarily Power BI, unraveling valuable insights about the evolving automotive landscape and the surge in sustainable transportation solutions. 🌍
 
 5 quick facts:
 
